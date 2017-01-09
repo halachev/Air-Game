@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-admob": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-plugin-pdialog": {
+            "PACKAGE_NAME": "air.next.com"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-connectivity-monitor": {
+            "PACKAGE_NAME": "air.next.com"
+        },
+        "cordova-google-play-services": {
+            "PACKAGE_NAME": "air.next.com"
+        }
+    }
+}
